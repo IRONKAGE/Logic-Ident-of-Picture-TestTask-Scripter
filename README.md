@@ -3,6 +3,8 @@ Just only Logic
 
 ![GitHub](https://img.shields.io/github/license/IRONKAGE/Logic-Ident-of-Picture-TestTask-Scripter?style=plastic) ![GitHub Code Size](https://img.shields.io/github/languages/code-size/IRONKAGE/Logic-Ident-of-Picture-TestTask-Scripter?style=plastic) ![Languges](https://img.shields.io/github/languages/count/IRONKAGE/Logic-Ident-of-Picture-TestTask-Scripter?style=plastic)
 
+![FIFA20](https://github.com/IRONKAGE/Logic-Ident-of-Picture-TestTask-Scripter/blob/master/FIFA20.png)
+
 ## Need to connect in Tensorflow or PyTorch ar Analog for Recognized Pictures
 
 ## Need to connect in Tesseract or Analog for Recognized Text
